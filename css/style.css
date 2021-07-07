@@ -1,28 +1,8 @@
-#title {
-  color: red;
+.mini{
+    font-size:20px;
 }
 
-.description {
-  color: blue;
-}
-.box {
-  background-color: black;
-  width: 1000px;
-  height: 300px;
-}
-.box1{
-  background-color:silver;
-  width:300px;
-  height:300px;
-  margin-bottom:30px;
-}
-.box2{
-  background-color:red;
-  width:300px;
-  height:300px;
-  margin-bottom:30px;
-}
-botton{
-  background-color:blue;
-  padding:100px 300px
+.list{
+    float:left;
+    height:200px;
 }
